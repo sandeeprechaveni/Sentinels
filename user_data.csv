@@ -1,0 +1,4 @@
+username,followers_count,following_count,tweet_count,account_created_at,verified
+example_user1,150,50,20,2022-01-15,False
+example_user2,5,200,15,2023-01-10,False
+example_user3,1000,5000,500,2019-03-22,True
